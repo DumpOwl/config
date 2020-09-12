@@ -1,0 +1,14 @@
+{
+    "0": "[\"invoker_ghost_walk\",\"item_sheepstick\",\"invoker_cold_snap\",\"invoker_alacrity\",\"invoker_forge_spirit\",\"doom_bringer_empty1\",\"doom_bringer_empty1\",\"doom_bringer_empty1\"]",
+    "1": "[\"invoker_cold_snap\",\"invoker_forge_spirit\",\"invoker_tornado\",\"invoker_chaos_meteor\",\"item_black_king_bar\",\"item_refresher\",\"invoker_chaos_meteor\",\"invoker_deafening_blast\"]",
+    "10": "[\"item_blink\",\"invoker_tornado\",\"invoker_alacrity\",\"invoker_forge_spirit\",\"invoker_deafening_blast\",\"invoker_chaos_meteor\",\"invoker_sun_strike\",\"invoker_ghost_walk\"]",
+    "11": "[\"invoker_chaos_meteor\",\"invoker_cold_snap\",\"doom_bringer_empty1\",\"invoker_sun_strike\",\"doom_bringer_empty1\",\"invoker_emp\",\"doom_bringer_empty1\",\"invoker_deafening_blast\"]",
+    "2": "[\"invoker_tornado\",\"invoker_chaos_meteor\",\"invoker_cold_snap\",\"doom_bringer_empty1\",\"doom_bringer_empty1\",\"doom_bringer_empty1\",\"doom_bringer_empty1\",\"doom_bringer_empty1\"]",
+    "3": "[\"invoker_tornado\",\"invoker_ice_wall\",\"invoker_chaos_meteor\",\"invoker_cold_snap\",\"invoker_alacrity\",\"doom_bringer_empty1\",\"doom_bringer_empty1\",\"doom_bringer_empty1\"]",
+    "4": "[\"item_cyclone\",\"invoker_sun_strike\",\"invoker_chaos_meteor\",\"invoker_deafening_blast\",\"doom_bringer_empty1\",\"doom_bringer_empty1\",\"doom_bringer_empty1\",\"doom_bringer_empty1\"]",
+    "5": "[\"invoker_cold_snap\",\"item_sheepstick\",\"invoker_chaos_meteor\",\"invoker_deafening_blast\",\"invoker_sun_strike\",\"doom_bringer_empty1\",\"doom_bringer_empty1\",\"doom_bringer_empty1\"]",
+    "6": "[\"item_blink\",\"item_sheepstick\",\"invoker_cold_snap\",\"item_rod_of_atos\",\"invoker_chaos_meteor\",\"invoker_sun_strike\",\"doom_bringer_empty1\",\"doom_bringer_empty1\"]",
+    "7": "[\"item_sheepstick\",\"invoker_cold_snap\",\"invoker_chaos_meteor\",\"invoker_sun_strike\",\"doom_bringer_empty1\",\"invoker_deafening_blast\",\"doom_bringer_empty1\",\"doom_bringer_empty1\"]",
+    "8": "[\"invoker_tornado\",\"invoker_emp\",\"invoker_chaos_meteor\",\"item_refresher\",\"invoker_deafening_blast\",\"doom_bringer_empty1\",\"doom_bringer_empty1\",\"doom_bringer_empty1\"]",
+    "9": "[\"item_blink\",\"invoker_tornado\",\"invoker_sun_strike\",\"invoker_chaos_meteor\",\"doom_bringer_empty1\",\"invoker_cold_snap\",\"doom_bringer_empty1\",\"doom_bringer_empty1\"]"
+}

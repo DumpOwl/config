@@ -1,0 +1,18 @@
+{
+    "0": "[\"invoker_cold_snap\",\"invoker_forge_spirit\",\"invoker_alacrity\",\"doom_bringer_empty1\",\"doom_bringer_empty1\",\"doom_bringer_empty1\",\"doom_bringer_empty1\",\"doom_bringer_empty1\"]",
+    "1": "[\"invoker_cold_snap\",\"invoker_forge_spirit\",\"invoker_sun_strike\",\"doom_bringer_empty1\",\"doom_bringer_empty1\",\"doom_bringer_empty1\",\"doom_bringer_empty1\",\"doom_bringer_empty1\"]",
+    "10": "[\"invoker_chaos_meteor\",\"invoker_cold_snap\",\"invoker_ice_wall\",\"invoker_sun_strike\",\"invoker_alacrity\",\"invoker_emp\",\"invoker_forge_spirit\",\"invoker_deafening_blast\"]",
+    "11": "[\"invoker_cold_snap\",\"invoker_tornado\",\"invoker_emp\",\"item_sheepstick\",\"invoker_chaos_meteor\",\"invoker_deafening_blast\",\"doom_bringer_empty1\",\"doom_bringer_empty1\"]",
+    "12": "[\"invoker_cold_snap\",\"invoker_tornado\",\"item_cyclone\",\"invoker_chaos_meteor\",\"invoker_deafening_blast\",\"invoker_emp\",\"doom_bringer_empty1\",\"doom_bringer_empty1\"]",
+    "13": "[\"invoker_cold_snap\",\"invoker_tornado\",\"invoker_chaos_meteor\",\"doom_bringer_empty1\",\"doom_bringer_empty1\",\"doom_bringer_empty1\",\"doom_bringer_empty1\",\"doom_bringer_empty1\"]",
+    "14": "[\"doom_bringer_empty1\",\"doom_bringer_empty1\",\"doom_bringer_empty1\",\"doom_bringer_empty1\",\"doom_bringer_empty1\",\"doom_bringer_empty1\",\"doom_bringer_empty1\",\"doom_bringer_empty1\"]",
+    "15": "[\"doom_bringer_empty1\",\"doom_bringer_empty1\",\"doom_bringer_empty1\",\"doom_bringer_empty1\",\"doom_bringer_empty1\",\"doom_bringer_empty1\",\"doom_bringer_empty1\",\"doom_bringer_empty1\"]",
+    "2": "[\"invoker_tornado\",\"invoker_chaos_meteor\",\"invoker_ice_wall\",\"doom_bringer_empty1\",\"doom_bringer_empty1\",\"doom_bringer_empty1\",\"doom_bringer_empty1\",\"doom_bringer_empty1\"]",
+    "3": "[\"invoker_tornado\",\"invoker_chaos_meteor\",\"invoker_cold_snap\",\"doom_bringer_empty1\",\"doom_bringer_empty1\",\"doom_bringer_empty1\",\"doom_bringer_empty1\",\"doom_bringer_empty1\"]",
+    "4": "[\"invoker_tornado\",\"invoker_chaos_meteor\",\"invoker_deafening_blast\",\"doom_bringer_empty1\",\"doom_bringer_empty1\",\"doom_bringer_empty1\",\"doom_bringer_empty1\",\"doom_bringer_empty1\"]",
+    "5": "[\"item_cyclone\",\"invoker_sun_strike\",\"invoker_chaos_meteor\",\"invoker_deafening_blast\",\"doom_bringer_empty1\",\"doom_bringer_empty1\",\"doom_bringer_empty1\",\"doom_bringer_empty1\"]",
+    "6": "[\"invoker_tornado\",\"invoker_emp\",\"invoker_chaos_meteor\",\"invoker_deafening_blast\",\"doom_bringer_empty1\",\"doom_bringer_empty1\",\"doom_bringer_empty1\",\"doom_bringer_empty1\"]",
+    "7": "[\"invoker_tornado\",\"invoker_emp\",\"invoker_chaos_meteor\",\"item_refresher\",\"invoker_deafening_blast\",\"doom_bringer_empty1\",\"doom_bringer_empty1\",\"doom_bringer_empty1\"]",
+    "8": "[\"invoker_tornado\",\"invoker_sun_strike\",\"invoker_chaos_meteor\",\"item_refresher\",\"invoker_deafening_blast\",\"doom_bringer_empty1\",\"doom_bringer_empty1\",\"doom_bringer_empty1\"]",
+    "9": "[\"invoker_tornado\",\"invoker_deafening_blast\",\"invoker_chaos_meteor\",\"invoker_sun_strike\",\"item_refresher\",\"doom_bringer_empty1\",\"doom_bringer_empty1\",\"doom_bringer_empty1\"]"
+}
